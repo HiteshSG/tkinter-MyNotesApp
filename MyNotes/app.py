@@ -107,7 +107,7 @@ class PageOne(StartPage,Frame):
         query = 'SELECT title,description FROM note WHERE id={};'
 
         # print(all_data)
-        self.configure(bg='orange')
+        self.configure(bg='green')
 
         note_title = Label(self,text='Title :',font=("Verdana", 18,"bold"),bg='orange')
         note_title.place(relx=0,rely=0.1,relheight=0.08,relwidth=0.18)
