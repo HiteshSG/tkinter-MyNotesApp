@@ -11,7 +11,7 @@ Basically this app can be use to store your important notes also we can further 
 
 ### How to run:
 - Download clone 
-- Perform queries one by in your mysql server 
+- Perform queries one by one in your mysql server 
 - Edit mysql credentials in backend.py file. for eg. usr='your_usr' and pwd='your_pwd'
 - Run command: 'python app.py'
 
